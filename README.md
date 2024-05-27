@@ -25,5 +25,6 @@ $ Instale as dependências com o `pip`
 # ▶️ Execução do projeto
 Para que o projeto seja executado da forma correta, rode as células do notebook `preprocessamento-imagens.ipynb` primeiro e depois rode as células do notebook `classificador_ml.ipynb`.
 
-# ⚠️ Observação
-Lembre-se de trocar os caminhos das pastas e dos arquivos que aparecem ao longo dos códigos, para que funcione como o esperado 
+# ⚠️ Observações
+- Este projeto é parte de um projeto maior. Caso queira testar a aplicação completa, clique [aqui](https://github.com/paulorc-silva/Animal-Species-Classifier-Based-Footprints).
+- Lembre-se de trocar os caminhos das pastas e dos arquivos que aparecem ao longo dos códigos, para que funcione como o esperado 
